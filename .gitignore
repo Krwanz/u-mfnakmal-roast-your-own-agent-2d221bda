@@ -1,0 +1,8 @@
+kit.zip
+kit.tar.gz
+kit/
+kit-fresh/
+system-prompt-build.txt
+user-prompt.txt
+/output/
+*.log
